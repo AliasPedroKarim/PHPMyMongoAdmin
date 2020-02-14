@@ -558,7 +558,9 @@ div[class*='trace-']{
 	width: auto;
 	border: none;
 }
-
+table.tree{
+	width: 100% !important;
+}
 /*---------------Flash Message------------*/
 .message,
 .flash-message{
